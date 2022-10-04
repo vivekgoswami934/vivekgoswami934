@@ -60,10 +60,7 @@
     </a>
     <a href="http://vivekgoswami-portfolio.netlify.com/">
         <img align="center" src="https://img.shields.io/badge/Portfolio-18A303?style=for-the-badge&logo=ionic&logoColor=white" alt="vivekgoswami-portfolio.netlify.com/" />
-    </a>
-    <a title="vivekgoswamidbng@gmail.com" href="mailto:vivekgoswamidbng@gmail.com">
-        <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="vivekgoswamidbng@gmail.com" />
-    </a>
+  
 </p>
 <br>
 
